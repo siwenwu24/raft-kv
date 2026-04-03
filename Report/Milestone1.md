@@ -333,6 +333,6 @@ We welcome classmates to test our system once deployed on EC2. The HTTP API is s
 
 ## Part IV: Video Script
 
-See [here]([https://northeastern.zoom.us/rec/share/BY8uszQISUmQFkVNvrkPmZAOrVc-Sgt81Cs75LkXTTQ6GQ91VaBzcVOf47PRX1Du.o9S-mTg2d1On_D_3](https://drive.google.com/drive/folders/1NqGJZICWFdXzglFuW-2AjwlP-o-JgTAN)).
+https://drive.google.com/drive/folders/1NqGJZICWFdXzglFuW-2AjwlP-o-JgTAN
 
 
