@@ -84,12 +84,7 @@ curl -X POST http://localhost:8083/kv/test -d '{"value":"after-failover"}'
 
 ## Part III: Milestone 1 Report
 
-### 1. Repository
-
-- **Code:** https://github.com/summereth/CS6650/tree/master/project
-- **Test Results:** https://github.com/summereth/CS6650/blob/master/project/hw9/result.md
-
-### 2. Problem, Team, and Overview of Experiments
+### Problem, Team, and Overview of Experiments
 
 #### Problem Statement
 
@@ -226,13 +221,6 @@ In Week 1, we completed the full core implementation:
 - **Dynamo Paper (DeCandia et al., 2007):** Dynamo uses eventual consistency with vector clocks, while our system provides stronger guarantees through Raft consensus. Our stale read mode is conceptually similar to Dynamo's eventual consistency, but our default and strong modes offer bounded and linearizable consistency.
 - **CAP Theorem (Brewer, 2000):** Our three consistency modes explicitly let clients choose their position on the CAP spectrum — strong reads sacrifice availability for consistency, while stale reads sacrifice consistency for availability.
 
-#### Related Piazza Projects
-
-Post 1 [here](https://piazza.com/class/mk3hftotl6e229/post/905)
-
-Post 2 [here](https://piazza.com/class/mk3hftotl6e229/post/957)
-
-Post 3 [here](https://piazza.com/class/mk3hftotl6e229/post/1151)
 
 ### 6. Methodology
 
