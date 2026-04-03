@@ -2,11 +2,13 @@
 
 ## Part I: Related Projects
 
-Post 1 [here](https://piazza.com/class/mk3hftotl6e229/post/905)
+Post 1 [here](https://piazza.com/class/mk3hftotl6e229/post/1151)
 
-Post 2 [here](https://piazza.com/class/mk3hftotl6e229/post/957)
+Post 2 [here](https://piazza.com/class/mk3hftotl6e229/post/1124)
 
-Post 3 [here](https://piazza.com/class/mk3hftotl6e229/post/1151)
+Post 3 [here](https://piazza.com/class/mk3hftotl6e229/post/1119)
+
+
 
 ---
 
@@ -16,7 +18,6 @@ Post 3 [here](https://piazza.com/class/mk3hftotl6e229/post/1151)
 
 Run 5 instances on localhost with different ports (8081–8085) backed by Raft ports (7001–7005). Write to the leader and read from followers.
 
-![Local test result](image.png)
 
 ### Test Case: Write Rejection on Followers
 
